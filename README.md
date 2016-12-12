@@ -15,13 +15,10 @@ one photo gallery project based on react
 
 ## reference
 - https://github.com/react-webpack-generators/generator-react-webpack
-- https://github.com/materliu/gallery-by-react
-- http://www.imooc.com/learn/507
-
 
 点击下面链接可以在线预览
 
-https://stephengao666.github.io/react-gallery/
+https://hoystar.github.io/beilei/
 
 所用技术栈为 React、Webpack、SASS、ES6
 
