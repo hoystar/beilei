@@ -1,4 +1,4 @@
-# react-gallery
+# 贝小贝
 one photo gallery project based on react
 
 根据慕课网 “React实战-打造画廊应用” 课程，使用新版webpack以及ES6重构
