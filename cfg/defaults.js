@@ -51,7 +51,7 @@ function getDefaultModules() {
 
 module.exports = {
   srcPath: srcPath,
-  publicPath: '/assets/',
+  publicPath: '/beilei/assets/',
   port: dfltPort,
   getDefaultModules: getDefaultModules
 };
